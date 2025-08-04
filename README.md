@@ -89,9 +89,9 @@ cd Diabetes-Regression-
 Run the script or notebook:
 
 ```bash
-python diabetes_regression.py
+python regression_(diabetes).py
 # OR
-jupyter notebook diabetes_linear_ridge_lasso.ipynb
+jupyter notebook Regression_(Diabetes).ipynb
 ```
 
 ---
@@ -100,13 +100,10 @@ jupyter notebook diabetes_linear_ridge_lasso.ipynb
 
 ```
 📁 diabetes-regression/
-├── diabetes_linear_ridge_lasso.ipynb
-├── diabetes_regression.py
+├── Regression_(Diabetes).ipynb
+├── regression_(diabetes).ipynb
 ├── README.md
 ├── requirements.txt
-├── visuals/
-│   ├── coefficients_plot.png
-│   └── prediction_plot.png
 ```
 
 ---
