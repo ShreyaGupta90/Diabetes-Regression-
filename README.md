@@ -82,8 +82,8 @@ pip install numpy pandas matplotlib scikit-learn
 Clone this repository:
 
 ```bash
-git clone https://github.com/YourUsername/diabetes-regression.git
-cd diabetes-regression
+git clone https://github.com/ShreyaGupta90/Diabetes-Regression-.git
+cd Diabetes-Regression-
 ```
 
 Run the script or notebook:
@@ -113,8 +113,7 @@ jupyter notebook diabetes_linear_ridge_lasso.ipynb
 
 ## 🔗 GitHub Repository
 
-🔗 [github.com/YourUsername/diabetes-regression](https://github.com/YourUsername/diabetes-regression)  
-*(Replace with your actual GitHub URL)*
+🔗 [github.com/ShreyaGupta90/Diabetes-Regression-](https://github.com/ShreyaGupta90/Diabetes-Regression-)  
 
 ---
 
@@ -122,8 +121,8 @@ jupyter notebook diabetes_linear_ridge_lasso.ipynb
 
 **Shreya Gupta**  
 👩‍💻 Aspiring ML Engineer | Python & AI Enthusiast  
-📫 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 [your.email@example.com](mailto:your.email@example.com)
+📫 [LinkedIn](https://www.linkedin.com/in/shreya-gupta-2a6a292ab)  
+📧 [shreyagupta119809@gmail.com](mailto:shreyagupta119809@gmail.com)
 
 ---
 
