@@ -1,7 +1,6 @@
 # 🩺 Diabetes Progression Prediction using Linear, Ridge & Lasso Regression
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)   
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()  
 [![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Regression-orange?logo=scikit-learn)](https://scikit-learn.org/)
 
@@ -110,13 +109,6 @@ jupyter notebook Regression_(Diabetes).ipynb
 👩‍💻 Aspiring ML Engineer | Python & AI Enthusiast  
 📫 [LinkedIn](https://www.linkedin.com/in/shreya-gupta-2a6a292ab)  
 📧 [shreyagupta119809@gmail.com](mailto:shreyagupta119809@gmail.com)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
