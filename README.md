@@ -1,1 +1,140 @@
-# Diabetes-Regression-
+# 🩺 Diabetes Progression Prediction using Linear, Ridge & Lasso Regression
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()  
+[![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Regression-orange?logo=scikit-learn)](https://scikit-learn.org/)
+
+---
+
+## 📘 Overview
+
+This project uses the **Diabetes Dataset** from Scikit-learn to build and compare three regression models:
+
+- 📈 Linear Regression  
+- 🧩 Ridge Regression (L2 Regularization)  
+- ✂️ Lasso Regression (L1 Regularization)  
+
+The goal is to understand how regularization improves model performance by reducing overfitting and enhancing generalization.
+
+---
+
+## 🧠 About the Dataset
+
+The **Diabetes dataset** is a well-known dataset included in `sklearn.datasets`.  
+It includes:
+
+- 🧬 442 patient records  
+- 🔟 Features: Age, BMI, Blood Pressure, etc.  
+- 🎯 Target: Disease progression after one year
+
+```python
+from sklearn.datasets import load_diabetes
+data = load_diabetes()
+```
+
+---
+
+## 🛠️ Models Used
+
+### 🔹 Linear Regression  
+Fits a straight line through the data. Easy to interpret but may overfit on complex data.
+
+### 🔹 Ridge Regression (L2)  
+Penalizes large coefficients and reduces model complexity. Helps with multicollinearity.
+
+### 🔹 Lasso Regression (L1)  
+Can shrink some coefficients to zero, effectively performing feature selection.
+
+---
+
+## 📈 Evaluation Metrics
+
+- ✅ Mean Squared Error (MSE)  
+- ✅ R² Score  
+- ✅ Coefficients comparison  
+- ✅ Actual vs Predicted visualization
+
+---
+
+## 📊 Visual Outputs
+
+| Coefficients Comparison | Actual vs Predicted |
+|-------------------------|---------------------|
+| ![Coefficients](./visuals/coefficients_plot.png) | ![Predictions](./visuals/prediction_plot.png) |
+
+*Make sure you save your plot images inside a `/visuals/` folder.*
+
+---
+
+## 📦 Requirements
+
+Install required packages:
+
+```bash
+pip install numpy pandas matplotlib scikit-learn
+```
+
+---
+
+## 🚀 How to Run
+
+Clone this repository:
+
+```bash
+git clone https://github.com/YourUsername/diabetes-regression.git
+cd diabetes-regression
+```
+
+Run the script or notebook:
+
+```bash
+python diabetes_regression.py
+# OR
+jupyter notebook diabetes_linear_ridge_lasso.ipynb
+```
+
+---
+
+## 📂 Project Structure
+
+```
+📁 diabetes-regression/
+├── diabetes_linear_ridge_lasso.ipynb
+├── diabetes_regression.py
+├── README.md
+├── requirements.txt
+├── visuals/
+│   ├── coefficients_plot.png
+│   └── prediction_plot.png
+```
+
+---
+
+## 🔗 GitHub Repository
+
+🔗 [github.com/YourUsername/diabetes-regression](https://github.com/YourUsername/diabetes-regression)  
+*(Replace with your actual GitHub URL)*
+
+---
+
+## 🙋‍♀️ Author
+
+**Shreya Gupta**  
+👩‍💻 Aspiring ML Engineer | Python & AI Enthusiast  
+📫 [LinkedIn](https://linkedin.com/in/your-profile)  
+📧 [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for more details.
+
+---
+
+## 🌟 Support
+
+If you find this helpful, please consider giving it a ⭐  
+Feedback and contributions are always welcome 💬✨
