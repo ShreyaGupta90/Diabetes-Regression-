@@ -57,16 +57,6 @@ Can shrink some coefficients to zero, effectively performing feature selection.
 
 ---
 
-## 📊 Visual Outputs
-
-| Coefficients Comparison | Actual vs Predicted |
-|-------------------------|---------------------|
-| ![Coefficients](./visuals/coefficients_plot.png) | ![Predictions](./visuals/prediction_plot.png) |
-
-*Make sure you save your plot images inside a `/visuals/` folder.*
-
----
-
 ## 📦 Requirements
 
 Install required packages:
