@@ -1,4 +1,4 @@
- bn# 🩺 Diabetes Progression Prediction using Linear, Ridge & Lasso Regression
+# 🩺 Diabetes Progression Prediction using Linear, Ridge & Lasso Regression
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)   
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)]()  
